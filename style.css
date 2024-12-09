@@ -1,0 +1,29 @@
+body {
+  background-color:antiquewhite;
+}
+h1 {
+  font-weight: bold;
+  font-style:italic;
+}
+#red {
+color: red;
+}
+#blue {
+color: blue;
+}
+#orange {
+color: orange;
+}
+#green {
+color: green;
+}
+#yellow {
+color: yellow;
+}
+.color-title {
+font-weight: medium;
+}
+img {
+  height: 200px;
+  width: 200px;
+}
